@@ -7,7 +7,7 @@ A simple Task Management Application built with React that allows users to add, 
 - [Features](#Features)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Technologies Used](#Technologies-used)
+- [Technologies Used](#Technologies-Used)
 
 ## Features
 
@@ -22,7 +22,7 @@ A simple Task Management Application built with React that allows users to add, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-task-management.git
+   git clone https://github.com/ArjunKSoni/todo-list.git
 
 2. Install dependencies:
     npm install
@@ -34,7 +34,7 @@ Start the development server:
 
 Open your browser and visit http://localhost:3000 to use the Task Management Application.
    
-##Technologies Used
+## Technologies-Used
 
     React
     Rect-Route-DOM
